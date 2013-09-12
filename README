@@ -1,1 +1,6 @@
-test
+This is a minimal repository containing the code that was used for writing the blog post http://www.philippeadjiman.com/blog/?p=1095
+The RMD file is published here (which was used to create the knit HTML output here: http://rpubs.com/padjiman/8419 ).
+
+The output of that code create an entry scoring 0.79426 on the public leaderboard.
+
+
